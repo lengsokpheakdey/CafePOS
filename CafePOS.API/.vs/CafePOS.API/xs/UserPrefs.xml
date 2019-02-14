@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{DF5D106A-4D70-4C4C-ACE3-185DD3561569}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/ValuesController.cs">
+    <Files>
+      <File FileName="Controllers/ValuesController.cs" Line="32" Column="41" />
+      <File FileName="Startup.cs" Line="38" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CafePOS.API PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
